@@ -1,0 +1,4 @@
+# Project exclude paths
+/hi-rpc-api/target/
+/hi-rpc-base/target/
+/hi-rpc-support/target/
